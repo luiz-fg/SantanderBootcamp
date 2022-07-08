@@ -1,0 +1,40 @@
+.flex-container {
+  display: flex;
+  border: 2px solid black;
+  max-width: 350px;
+  margin-bottom: 10px;
+}
+
+.item
+{
+  background-color: lightskyblue;
+  font-size: 24px;
+  flex: 1;
+  text-align: center;
+  margin: 5px;
+}
+
+.o0
+{
+  order: 0;
+}
+
+.o1
+{
+  order: 1;
+}
+
+.o2
+{
+  order: 2;
+}
+
+.o3
+{
+  order: 3;
+}
+
+.o4
+{
+  order: 4;
+}
